@@ -6,19 +6,19 @@ Welcome to the Time Series Analysis Lab repository! This repository contains a c
 ## Contents
 
 1. **ARIMA Modeling**: Understand and implement Autoregressive Integrated Moving Average (ARIMA) models to analyze and forecast time series data.
-<img src="TimeSeries/1.PNG" alt="ARIMA Model" style="width: 400px;"/>
+<img src="TimeSeries/1.PNG" alt="ARIMA Model" style="width: 500px;"/>
 2. **SARIMA Parameter Tuning**: Dive deeper into Seasonal ARIMA (SARIMA) models by learning how to tune model parameters for improved forecasting accuracy.
-
+<img src="TimeSeries/2.PNG" alt="ARIMA Model" style="width: 500px;"/>
 3. **Moving Average Plots**: Visualize and interpret moving average plots to identify trends and patterns in time series data.
-
+<img src="TimeSeries/3.PNG" alt="ARIMA Model" style="width: 500px;"/>
 4. **PACF and ACF Plots**: Explore Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF) plots to understand the autocorrelation structure of time series data.
-
+<img src="TimeSeries/4.PNG" alt="ARIMA Model" style="width: 500px;"/>
 5. **Interactive Visualizations**: Build interactive visualizations using R packages like ggplot2 and plotly to interactively explore and analyze time series data.
-
+<img src="TimeSeries/5.PNG" alt="ARIMA Model" style="width: 500px;"/>
 6. **Augmented Dickey-Fuller Test**: Perform the Augmented Dickey-Fuller test to assess the stationarity of time series data and understand its implications for modeling.
-
+<img src="TimeSeries/6.PNG" alt="ARIMA Model" style="width: 500px;"/>
 7. **Additional Time Series Techniques**: Discover and implement additional time series techniques to further enhance your understanding and analysis of time series data. 
-
+<img src="TimeSeries/7.PNG" alt="ARIMA Model" style="width: 500px;"/>
 8. **Lab Exercises and Solutions**: Engage in practical lab exercises provided with solutions to reinforce your learning and apply concepts covered in each lab.
 
 9. **Data Sets**: Access sample time series data sets used in the labs to practice and experiment with various time series analysis techniques.
