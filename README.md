@@ -6,9 +6,9 @@ Welcome to the Time Series Analysis Lab repository! This repository contains a c
 ## Contents
 
 1. **ARIMA Modeling**: Understand and implement Autoregressive Integrated Moving Average (ARIMA) models to analyze and forecast time series data.
-<img src="timeseries/1.PNG" alt="ARIMA Model" style="width: 400px;"/>
+<img src="TimeSeries/1.PNG" alt="ARIMA Model" style="width: 400px;"/>
 2. **SARIMA Parameter Tuning**: Dive deeper into Seasonal ARIMA (SARIMA) models by learning how to tune model parameters for improved forecasting accuracy.
-![SARIMA Parameter Tuning](TimeSeries/2.PNG)
+
 3. **Moving Average Plots**: Visualize and interpret moving average plots to identify trends and patterns in time series data.
 
 4. **PACF and ACF Plots**: Explore Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF) plots to understand the autocorrelation structure of time series data.
