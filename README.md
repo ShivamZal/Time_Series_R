@@ -1,6 +1,3 @@
----
-title: Time Series Analysis Lab Repository
----
 
 # Time Series Analysis Lab Repository
 
